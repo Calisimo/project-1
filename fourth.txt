@@ -1,2 +1,4 @@
 Fourth text in fourth file
 ADDED Fourth text in fourth file
+change 1
+change 2
